@@ -1,0 +1,11 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/miklos-101/GitExample.git
+git push -u origin master
+
+USE THIS TO PUSH THE FILE TO THE REPO
+
+git remote add origin https://github.com/miklos-101/GitExample.git
+git push -u origin master
